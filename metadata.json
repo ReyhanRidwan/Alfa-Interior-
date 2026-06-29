@@ -1,0 +1,6 @@
+{
+  "name": "Alfa Interior",
+  "description": "High-end custom furniture & luxury interior design-build service featuring a real-time RAB (Rencana Anggaran Biaya) Estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
